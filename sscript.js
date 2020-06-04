@@ -5,7 +5,7 @@
    const close = document.getElementById('close');
 
       
-        close.addEventListener('click', (d))
+        close.addEventListener('click', (d));
         
         function d(){
                  
